@@ -11,7 +11,7 @@ This Excel project analyzes store sales data and provides insights on sales perf
 - Customized headings and layout for clarity
 
 ## Reference / Acknowledgements
-This project was inspired by Rishbh Mishra's Youtube tutorial
+This project was inspired by Rishbh Mishra's Youtube tutorial.
 
 ## How to Use
 1. Download the Excel file from this repository.
