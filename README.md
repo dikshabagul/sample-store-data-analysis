@@ -18,5 +18,4 @@ This project was inspired by Rishbh Mishra's Youtube tutorial.
 2. Open the file in Microsoft Excel.
 3. Explore the dashboards and analysis sheets.
 
-![Project
-Screenshot](Screenshot 2025-10-24 212356.png)
+
